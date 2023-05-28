@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+#clock {
+    font-size: 60px;
+    text-align: center;
+    margin-top: 200px;
+    letter-spacing: 5px;
+    color: antiquewhite;
+    font-family: Orbitron;
+    background-color: #000;
+}
+
+.btn-change{
+    text-align: center;
+}
+
+
+#formatButton{
+    margin-top: 20px;
+    padding: 10px;
+    border: 2px solid rgb(231, 112, 68);
+    border-radius: 8px;
+    background: rgb(220, 135, 103);
+    font-size: 16px;
+    color: white;
+    height: auto;
+}
